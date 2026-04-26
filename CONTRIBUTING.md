@@ -11,16 +11,17 @@ Click the "Fork" button at the top right of this page to create a copy of this r
 
 ### 2. Clone your Fork
 
+<img width="1902" height="939" alt="clone" src="https://github.com/user-attachments/assets/c61e0ab7-4b14-43f5-a952-0b52350bd49f" />
+
 Open your terminal and run:
 ```bash
 git clone https://github.com/OyanibTech-iii/OpenSourceProject.git
 ```
-<img width="1902" height="939" alt="clone" src="https://github.com/user-attachments/assets/c61e0ab7-4b14-43f5-a952-0b52350bd49f" />
 
 ### 3. Create a Branch
 Go into the project directory and create a new branch:
 ```bash
-cd CONTRIBUTORS
+cd OpenSourceProject
 git checkout -b add-yourname
 ```
 
