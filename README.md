@@ -3,11 +3,11 @@
 
 Welcome to the **CONTRIBUTORS** project! This is a safe space for you to practice the open-source workflow: forking, cloning, branching, committing, and opening Pull Requests.
 
-## 🚀 Goal
+##  Goal
 
 The goal of this project is to collect a list of awesome people who want to learn how to contribute to open-source software.
 
-## 🛠️ How to Participate
+##  How to Participate
 
 1.  **Fork** this repository.
 2.  **Clone** your fork to your local machine.
@@ -16,6 +16,6 @@ The goal of this project is to collect a list of awesome people who want to lear
 5.  **Commit and Push** your changes.
 6.  **Open a Pull Request**!
 
-## 👥 Contributors
+##  Contributors
 
 Check out the [contributors/](./contributors/) directory to see everyone who has participated!
